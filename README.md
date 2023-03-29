@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks, The Odin Project, 100Devs**
 
-- 👯 I’m looking to collaborate on [Open Source Project / Freelance development](https://dondoricent.netlify.app/)
+- 👯 I’m looking to collaborate on [Open Source Project / Freelance development]
 
 - 👨‍💻 All of my projects are available at [https://dondoricent.netlify.app/](https://dondoricent.netlify.app/)
 
