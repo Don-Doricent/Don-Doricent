@@ -1,40 +1,98 @@
-<h1 align="center">Hi 👋, I'm Don Doricent</h1>
-<h3 align="center">A passionate software developer located in Virginia</h3>
+## Hey 👋, I'm Don!  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=don-doricent&label=Profile%20views&color=0e75b6&style=flat" alt="don-doricent" /> </p>
+<a href="https://github.com/Don-Doricent" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/codenamedonn" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/donald-doricent" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@codenamedonn" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=don-doricent" alt="don-doricent" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codenamedonn" target="blank"><img src="https://img.shields.io/twitter/follow/codenamedonn?logo=twitter&style=for-the-badge" alt="codenamedonn" /></a> </p>
 
-- 🔭 I’m currently working on [Cordoba Art Website](https://cordobaart.netlify.app/)
+### Glad to see you here!  
+I’m Don Doricent, a self-taught web developer transitioning from a career in sales and business development. Over the past four years, I’ve excelled in building client relationships and driving results, but my passion for technology pushed me to explore web development. 
 
-- 🌱 I’m currently learning **Frameworks, 100Devs**
+Now, I’m focused on full-stack development using the MERN stack and JavaScript to build responsive, user-friendly web applications. As I continue to refine my coding skills and work on personal projects, I’m excited to leverage my problem-solving abilities and creative mindset to develop innovative solutions that make an impact.  
+  
 
-- 👯 I’m looking to collaborate on [Open Source Project / Freelance development]
+<br/>  
 
-- 👨‍💻 All of my projects are available at [https://dondoricent.netlify.app/](https://dondoricent.netlify.app/)
 
-- 📝 I regularly write articles on [https://codenamedon.hashnode.dev/](https://codenamedon.hashnode.dev/)
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🔭 I’m currently working on [NASA Picture of The Day](https://infinitecapture.netlify.app/)  
+  
 
-- 📫 How to reach me **don.doricent@gmail.com**
+- 🌱 I’m currently learning JavaScript | APIs  
+  
 
-- ⚡ Fun fact **I like to watch anime in my free time**
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codenamedonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codenamedonn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/donald-doricent-23619014b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donald-doricent-23619014b/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@codenamedon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codenamedon" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact: Anime fan | Music/Podcast buff  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=don-doricent&show_icons=true&locale=en&layout=compact" alt="don-doricent" /></p>
+</td><td valign="top" width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=don-doricent&show_icons=true&locale=en" alt="don-doricent" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=don-doricent&" alt="don-doricent" /></p>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
