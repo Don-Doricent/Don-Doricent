@@ -17,10 +17,7 @@
 
 
 
-### Glad to see you here!  
-I’m Don Doricent, a self-taught web developer transitioning from a career in sales and business development. Over the past four years, I’ve excelled in building client relationships and driving results, but my passion for technology pushed me to explore web development. 
-
-Now, I’m focused on full-stack development using the MERN stack and JavaScript to build responsive, user-friendly web applications. As I continue to refine my coding skills and work on personal projects, I’m excited to leverage my problem-solving abilities and creative mindset to develop innovative solutions that make an impact.  
+### Glad to see you here! 
   
 
 <br/>  
