@@ -36,7 +36,8 @@ I enjoy solving real-world problems through code and creating digital experience
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-doricent/)
-[![Gmail](https://img.shields.io/badge/Email-DDori@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ddoricent97@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-ddoricent97@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ddoricent97@gmail.com)
+
 
 ---
 
