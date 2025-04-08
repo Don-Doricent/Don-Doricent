@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Don 👋
 
-<!--
-**Don-Doricent/Don-Doricent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full-Stack Developer passionate about building clean, functional web applications
+- 🚀 Solving challenges daily on [Codewars](https://github.com/Don-Doricent/codewars-solutions)
+- 🛠️ Creating freelance websites under Doricent Web Solutions
+- 🌱 Continuously improving my skills in JavaScript, React, and Node.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Featured Projects
+- [Bill Harris Website](https://github.com/Don-Doricent/Bill-Harris-Website) — Freelance client project ([Live Site](https://billharrisart.com)
+- [Codewars Solutions](https://github.com/Don-Doricent/codewars-solutions) — Daily coding practice and problem solving
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/donald-doricent/)
+- [Email](mailto:ddoricent97@gmail.com)
