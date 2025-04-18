@@ -1,10 +1,11 @@
 # Hey, I'm Donald 👋
 
-## 💻 Full-Stack Developer | Web Enthusiast | Tech Explorer
+## 💻 Web Developer | QA Tester | Tech Explorer
 
-I'm a Full-Stack Developer passionate about building clean, user-friendly web applications.  
-Currently sharpening my skills in JavaScript, React, Node.js, and modern web technologies.  
-I enjoy solving real-world problems through code and creating digital experiences that make an impact.
+I'm a web developer who writes clean code **and** breaks bad code.  
+I build responsive, user-focused websites — and test them like a QA pro.
+
+Currently sharpening my JavaScript and full-stack skills with 100Devs, while building a hands-on QA portfolio that includes bug reports, test cases, and client-tested projects.
 
 ---
 
@@ -18,18 +19,36 @@ I enjoy solving real-world problems through code and creating digital experience
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ QA Tools & Workflow
 
-- [🚀 Bill Harris Website](https://github.com/Don-Doricent/Bill-Harris-Website) — Freelance client project ([Live Site](https://billharrisart.com))
-- [🎯 Codewars Solutions](https://github.com/Don-Doricent/codewars-solutions) — Daily coding challenges and problem solving
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ---
 
-## 🧠 Currently Exploring
+## 📂 Featured Projects
 
-- Frontend frameworks (Next.js, Tailwind CSS)
-- Backend development (Express.js, MongoDB)
-- Full-stack projects and freelancing
+- [🧪 QA Portfolio – Bill Harris Website](https://github.com/Don-Doricent/qa-portfolio)  
+  Manual test cases, bug reports (with screenshots), real-world freelance testing  
+  → [Live Site](https://billharrisart.com)
+
+- [🎯 Codewars Solutions](https://github.com/Don-Doricent/codewars-solutions)  
+  Problem solving and daily JavaScript challenges
+
+- [🌐 Portfolio Website](https://dondoricent.netlify.app)  
+  My personal site, work samples, and contact info
+
+---
+
+## 🎓 Learning & Certifications
+
+- ✅ 100Devs Full Stack Developer Program (In Progress)  
+- 📚 Guru99 QA Training (Complete)  
+- 🏁 ISTQB Foundation Certification (Coming Soon)
 
 ---
 
@@ -37,7 +56,6 @@ I enjoy solving real-world problems through code and creating digital experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-doricent/)
 [![Gmail](https://img.shields.io/badge/Email-ddoricent97@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ddoricent97@gmail.com)
-
 
 ---
 
