@@ -57,8 +57,3 @@ Currently sharpening my JavaScript and full-stack skills with 100Devs, while bui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-doricent/)
 [![Gmail](https://img.shields.io/badge/Email-ddoricent97@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ddoricent97@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Donald’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&theme=default)
