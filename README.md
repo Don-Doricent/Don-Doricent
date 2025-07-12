@@ -2,10 +2,10 @@
 
 ## 💻 Software Engineer | JavaScript | Test Automation
 
-I'm a web developer who writes clean code **and** breaks bad code.  
-I build responsive, user-focused websites — and test them like a QA pro.
+I’m a software engineer who ships JavaScript features and the Playwright tests that keep them green.
+I build fast, responsive web apps and break them on purpose to keep quality high.
 
-Currently sharpening my JavaScript and full-stack skills with 100Devs, while building a hands-on QA portfolio that includes bug reports, test cases, and client-tested projects.
+Right now I’m deepening my React / Node skills and expanding a public QA portfolio of bug reports, test cases, and CI-driven automation suites ahead of my CTFL exam on 18 July 2025.
 
 ---
 
