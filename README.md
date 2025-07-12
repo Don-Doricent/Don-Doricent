@@ -1,6 +1,6 @@
 # Hey, I'm Donald 👋
 
-## 💻 Web Developer | QA Tester | Tech Explorer
+## 💻 Software Engineer | JavaScript | Test Automation
 
 I'm a web developer who writes clean code **and** breaks bad code.  
 I build responsive, user-focused websites — and test them like a QA pro.
