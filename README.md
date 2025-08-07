@@ -47,6 +47,5 @@ Right now I’m deepening my React & Node skills through Scrimba’s Full-Stack 
 
 ## 🎓 Learning & Certifications
 
-- Scrimba Full-Stack Developer Program (in progress)  
-- Guru99 QA Training (complete)  
-- ISTQB-CTFL Foundation Certification (scheduled July 18 2025)
+- Scrimba Full-Stack Developer Program (in progress) 
+- ISTQB-CTFL Certified
