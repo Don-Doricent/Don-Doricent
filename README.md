@@ -1,9 +1,20 @@
-# Hi, I’m Donald Doricent
+# Donald Doricent
 
-## 💻 Full-Stack Developer | QA Engineer
+**ISTQB CTFL-Certified QA Engineer** | **Junior SDET** | Full-Stack Developer  
+Focused on building bug-free software through modern automation tools like Cypress, Playwright, and Selenium.
 
-I build responsive JavaScript apps—and the test suites that keep them reliable.  
-Right now I’m deepening my React & Node skills through Scrimba’s Full-Stack program, growing my public QA portfolio with bug reports, test cases, and CI-driven smoke suites, and gearing up for the ISTQB-CTFL exam on July 18, 2025.
+📍 Based in VA | 💻 Open to Remote QA / SDET Roles | 🌐 [Portfolio](https://dondoricent.netlify.app/)
+
+---
+
+Currently building:
+- Cypress E2E suite for my portfolio (UI validation, navigation, responsive checks)
+- Full-stack projects via Scrimba’s Developer Path
+- API testing demos in Postman
+
+Recent Win:
+- Cut smoke testing time by 25% with a Selenium-Python suite
+- Blocked 5 critical bugs via exploratory testing
 
 ---
 
