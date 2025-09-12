@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Don Doricent</h1>
-<h3 align="center">A Full Stack Developer / QA Engineer with a passion for AI</h3>
+<h3 align="center">A Full Stack Developer / QA Engineer with a passion for AI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=don-doricent&label=Profile%20views&color=720eb4&style=flat" alt="don-doricent" /> </p>
 
