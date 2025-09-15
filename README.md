@@ -8,7 +8,7 @@ i’m on the **Scrimba Fullstack path** and building a **QA automation portfolio
 - 🎯 goals (2025): land a QA/SDET role, finish Scrimba, ship 2 freelance sites  
 - 🌱 learning: full-stack JS, Playwright, a bit of Python/Arduino  
 - 💼 portfolio: [dondoricent.netlify.app](https://dondoricent.netlify.app)  
-- 📫 reach me: donald.doricent@gmail.com • [LinkedIn](https://www.linkedin.com/in/donald-doricent) • [GitHub](https://github.com/Don-Doricent)
+- 📫 reach me: ddoricent97@gmail.com • [LinkedIn](https://www.linkedin.com/in/donald-doricent) • [GitHub](https://github.com/Don-Doricent)
 
 ---
 
