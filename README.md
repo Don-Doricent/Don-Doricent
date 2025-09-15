@@ -1,4 +1,4 @@
-<h1 align="left">hey there! i’m don 👋</h1>
+<h1 align="left">Hey there! I’m Don 👋🏽</h1>
 
 i love **web dev, testing, & automation**.  
 right now i’m shipping terminal/web tools, QA automation suites, and a few fun side projects.  
@@ -22,13 +22,3 @@ i’m on the **Scrimba Fullstack path** and building a **QA automation portfolio
 <p align="left">
   <img height="150" src="https://streak-stats.demolab.com?user=Don-Doricent&theme=transparent&hide_border=true" />
 </p>
-
----
-
-
-
-### toolbelt
-`JavaScript` • `TypeScript` • `Node.js` • `React` • `Next.js` • `Playwright` • `Cypress` • `Git/GitHub` • `HTML` • `CSS/Flexbox` • `Arduino`
-
-> *“small, consistent reps compound.”*
-
