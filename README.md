@@ -25,29 +25,7 @@ i’m on the **Scrimba Fullstack path** and building a **QA automation portfolio
 
 ---
 
-### Pinned / Top repositories
-<a href="https://github.com/Don-Doricent/arduino-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Doricent&repo=arduino-playground&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/Don-Doricent/playwright-sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Doricent&repo=playwright-sandbox&theme=transparent&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/Don-Doricent/cypress-rwa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Doricent&repo=cypress-rwa&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/Don-Doricent/blackjack-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Doricent&repo=blackjack-game&theme=transparent&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/Don-Doricent/password-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Doricent&repo=password-generator&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/Don-Doricent/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Doricent&repo=portfolio&theme=transparent&hide_border=true" />
-</a>
 
----
 
 ### toolbelt
 `JavaScript` • `TypeScript` • `Node.js` • `React` • `Next.js` • `Playwright` • `Cypress` • `Git/GitHub` • `HTML` • `CSS/Flexbox` • `Arduino`
