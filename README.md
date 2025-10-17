@@ -1,6 +1,6 @@
 <h1 align="left">Hey there! I’m Don 👋🏽 </h1>
 
-i love **web dev, testing, & automation**.  
+i love **web dev, testing, & automation**.   
 right now i’m shipping terminal/web tools, QA automation suites, and a few fun side projects.  
 i’m on the **Scrimba Fullstack path** and building a **QA automation portfolio** (Playwright/Cypress).
 
