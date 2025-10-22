@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! I’m Don 👋🏽 </h1>
+<h1 align="left">Hey there! I’m Don 👋🏽 </h1> 
 
 i love **web dev, testing, & automation**.   
 right now i’m shipping terminal/web tools, QA automation suites, and a few fun side projects.  
