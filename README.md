@@ -1,24 +1,63 @@
-<h1 align="left">Hey there! I’m Don 👋🏽 </h1> 
-
-i love **web dev, testing, & automation**.   
-right now i’m shipping terminal/web tools, QA automation suites, and a few fun side projects.  
-i’m on the **Scrimba Fullstack path** and building a **QA automation portfolio** (Playwright/Cypress).
-
-- 🔭 currently building: media recommendations app • playwright/cypress demos • arduino tinkering  
-- 🎯 goals (2025): land a QA/SDET role, finish Scrimba, ship 2 freelance sites  
-- 🌱 learning: full-stack JS, Playwright, a bit of Python/Arduino  
-- 💼 portfolio: [dondoricent.netlify.app](https://dondoricent.netlify.app)  
-- 📫 reach me: ddoricent97@gmail.com • [LinkedIn](https://www.linkedin.com/in/donald-doricent) • [GitHub](https://github.com/Don-Doricent)
+<h1 align="center">Hey, I'm Don 👋🏾</h1>
+<p align="center">
+  Web dev & QA automation • building clean UIs and reliable test suites
+</p>
 
 ---
 
-### GitHub Statistics
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</p>
+### 🧩 What I do
 
-<!-- optional streaks -->
-<p align="left">
-  <img height="150" src="https://streak-stats.demolab.com?user=Don-Doricent&theme=transparent&hide_border=true" />
-</p>
+- Build fast, clean frontends and small web tools
+- Design and automate QA test suites (Playwright / Cypress)
+- Ship sites for local businesses under <b>Doricent Web Solutions</b>
+- Learn in public through Scrimba, Codewars, and client work
+
+---
+
+### 🔭 Current focus
+
+- Scrimba Fullstack Career Path (JS, React, backend)
+- QA automation portfolio using Playwright (and later Cypress)
+- Media recommendation app + smoke tests for real client sites
+- Laying groundwork for future AI / Python / Arduino projects
+
+---
+
+### 🛠 Tech
+
+`JavaScript` · `HTML` · `CSS / SCSS`  
+`Playwright` · `GitHub Actions`  
+`VS Code` · `Git` · `Netlify`
+
+---
+
+### 📌 Featured projects
+
+- **Doricent Web Solutions** – portfolio + case studies for freelance client sites  
+  👉 <a href="https://github.com/Don-Doricent/Doricent-Web-Solutions">Doricent-Web-Solutions</a>
+
+- **Scrimba Projects** – curated projects from the Scrimba Fullstack path  
+  👉 <a href="https://github.com/Don-Doricent/scrimba-projects">scrimba-projects</a>
+
+- **Playwright Client Demos** – automated smoke tests for real client sites  
+  👉 <a href="https://github.com/Don-Doricent/playwright-demos">playwright-demos</a>
+
+- **Codewars Katas** – daily kata tracking with a GitHub Action  
+  👉 <a href="https://github.com/Don-Doricent/codewars-katas">codewars-katas</a>
+
+---
+
+### 🎯 2025 goals
+
+- Land a QA/SDET or junior dev role  
+- Finish Scrimba’s Fullstack Career Path  
+- Ship and maintain at least 2+ freelance sites  
+- Grow skills in Python & Arduino for future AI / robotics work
+
+---
+
+### 🌐 Around the web
+
+- Portfolio: <a href="https://dondoricent.netlify.app">dondoricent.netlify.app</a>  
+- Email: <a href="mailto:doricent97@gmail.com">doricent97@gmail.com</a>  
+- LinkedIn: *(add your LinkedIn URL here)*  
