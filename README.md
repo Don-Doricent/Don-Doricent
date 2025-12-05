@@ -1,63 +1,69 @@
-<h1 align="center">Hey, I'm Don 👋🏾</h1>
+<h1 align="center">Hi 👋, I'm Don Doricent</h1>
+<h3 align="center">Full-Stack Developer | QA Engineer | Future AI Builder</h3>
+
 <p align="center">
-  Web dev & QA automation • building clean UIs and reliable test suites
+  <img src="https://komarev.com/ghpvc/?username=Don-Doricent&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🧩 What I do
-
-- Build fast, clean frontends and small web tools
-- Design and automate QA test suites (Playwright / Cypress)
-- Ship sites for local businesses under <b>Doricent Web Solutions</b>
-- Learn in public through Scrimba, Codewars, and client work
-
----
-
-### 🔭 Current focus
-
-- Scrimba Fullstack Career Path (JS, React, backend)
-- QA automation portfolio using Playwright (and later Cypress)
-- Media recommendation app + smoke tests for real client sites
-- Laying groundwork for future AI / Python / Arduino projects
+## 🚀 About Me  
+- 🧑‍💻 Full-stack dev in training (Scrimba Career Path)  
+- 🔍 QA background — ISTQB CTFL certified + learning Playwright automation  
+- 🛠️ Freelance developer running **Doricent Web Solutions**  
+- 🤖 Long-term goal: break into AI & robotics and build my personal assistant "Jax"  
+- 📈 Coding every day, pushing toward a dev/QA role in 2026  
+- 🌐 Portfolio: **https://dondoricent.netlify.app**
 
 ---
 
-### 🛠 Tech
+## 🛠️ Languages & Tools
 
-`JavaScript` · `HTML` · `CSS / SCSS`  
-`Playwright` · `GitHub Actions`  
-`VS Code` · `Git` · `Netlify`
-
----
-
-### 📌 Featured projects
-
-- **Doricent Web Solutions** – portfolio + case studies for freelance client sites  
-  👉 <a href="https://github.com/Don-Doricent/Doricent-Web-Solutions">Doricent-Web-Solutions</a>
-
-- **Scrimba Projects** – curated projects from the Scrimba Fullstack path  
-  👉 <a href="https://github.com/Don-Doricent/scrimba-projects">scrimba-projects</a>
-
-- **Playwright Client Demos** – automated smoke tests for real client sites  
-  👉 <a href="https://github.com/Don-Doricent/playwright-demos">playwright-demos</a>
-
-- **Codewars Katas** – daily kata tracking with a GitHub Action  
-  👉 <a href="https://github.com/Don-Doricent/codewars-katas">codewars-katas</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,github,linux,vscode,postman,wordpress" />
+</p>
 
 ---
 
-### 🎯 2025 goals
+## 📊 GitHub Analytics
 
-- Land a QA/SDET or junior dev role  
-- Finish Scrimba’s Fullstack Career Path  
-- Ship and maintain at least 2+ freelance sites  
-- Grow skills in Python & Arduino for future AI / robotics work
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Don-Doricent&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🌐 Around the web
+## 📦 Current Focus (2025 → 2026)
+- Completing Scrimba Full-Stack Developer path  
+- Daily Codewars practice  
+- Playwright Zero-to-Hero automation certification  
+- Client sites for **Doricent Web Solutions**  
+- Building a Python foundation for future AI work  
 
-- Portfolio: <a href="https://dondoricent.netlify.app">dondoricent.netlify.app</a>  
-- Email: <a href="mailto:doricent97@gmail.com">doricent97@gmail.com</a>  
-- LinkedIn: *(add your LinkedIn URL here)*  
+---
+
+## 💬 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/don-doricent/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Don-Doricent" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 🧩 A little code version of me  
+```js
+const don = {
+  role: ["Full-Stack Dev", "QA Engineer"],
+  learning: ["React", "Node", "Playwright", "Python"],
+  goals: ["Land Dev/QA Role", "Grow DWS", "Build AI Assistant Jax"],
+  mindset: "Locked in. No skipping days."
+}
