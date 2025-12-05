@@ -49,7 +49,7 @@
 
 ## 💬 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/don-doricent/" target="_blank">
+  <a href="https://www.linkedin.com/in/donald-doricent/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/Don-Doricent" target="_blank">
