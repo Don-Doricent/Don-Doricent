@@ -39,16 +39,25 @@ I value **daily reps** over sporadic intensity.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub stats"
     width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&hide_border=true&cache_seconds=86400"
+    alt="GitHub stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Don-Doricent&theme=default&hide_border=true"
-    alt="GitHub streak"
     width="48%"
+    src="https://streak-stats.demolab.com/?user=Don-Doricent&hide_border=true&cache_seconds=86400"
+    alt="GitHub streak"
   />
 </p>
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&hide_border=true&cache_seconds=86400"
+    alt="Top languages"
+  />
+</p>
+
 
 <p align="center">
   <img
