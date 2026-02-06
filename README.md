@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Don Doricent</h1>
-<h3 align="center">Full-Stack Developer | QA Engineer | Future AI Builder</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Don-Doricent&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -7,43 +7,52 @@
 
 ---
 
-## 🚀 About Me  
-- 🧑‍💻 Full-stack dev in training (Scrimba Career Path)  
-- 🔍 QA background — ISTQB CTFL certified + learning Playwright automation  
-- 🛠️ Freelance developer running **Doricent Web Solutions**  
-- 🤖 Long-term goal: break into AI & robotics and build my personal assistant "Jax"  
-- 📈 Coding every day, pushing toward a dev/QA role in 2026  
+## 👨🏽‍💻 About Me  
+- 🧑‍💻 Software developer focused on building strong fundamentals and real projects  
+- 📚 Currently completing the **Scrimba Full-Stack Developer Career Path**  
+- 🛠️ Building and maintaining client and personal projects through **Doricent Web Solutions**  
+- 🔁 Practicing JavaScript daily through problem-solving and hands-on coding  
+- 📈 Committed to consistency, clarity, and writing clean, maintainable code  
 - 🌐 Portfolio: **https://dondoricent.netlify.app**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,github,linux,vscode,postman,wordpress" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,github,linux,vscode,wordpress" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔁 Daily Practice
+
+- 📌 JavaScript problem-solving (Codewars)
+- 📌 Scrimba projects and solo challenges
+- 📌 Daily Git commits focused on steady improvement
+
+I value **daily reps** over sporadic intensity.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Don-Doricent&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Don-Doricent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## 📦 Current Focus (2025 → 2026)
-- Completing Scrimba Full-Stack Developer path  
-- Daily Codewars practice  
-- Playwright Zero-to-Hero automation certification  
-- Client sites for **Doricent Web Solutions**  
-- Building a Python foundation for future AI work  
+- Completing the Scrimba Full-Stack Developer Career Path  
+- Strengthening JavaScript fundamentals through daily practice  
+- Building and refining real-world projects  
+- Preparing for a junior software developer role  
 
 ---
 
@@ -59,11 +68,11 @@
 
 ---
 
-## 🧩 A little code version of me  
+## 🧠 A little code version of me  
 ```js
 const don = {
-  role: ["Full-Stack Dev", "QA Engineer"],
-  learning: ["React", "Node", "Playwright", "Python"],
-  goals: ["Land Dev/QA Role", "Grow DWS", "Build AI Assistant Jax"],
-  mindset: "Locked in. No skipping days."
-}
+  role: "Software Developer",
+  stack: ["JavaScript", "HTML", "CSS", "React"],
+  habits: ["Daily coding", "Problem solving", "Building projects"],
+  mindset: "Consistency > intensity"
+};
