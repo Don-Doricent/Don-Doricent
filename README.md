@@ -1,99 +1,100 @@
-<h1 align="center">Hi, I'm Don Doricent</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hi, I'm Don Doricent 👋</h1>
+
+<h3 align="center">
+Full-Stack Developer • JavaScript • React • Node.js
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Don-Doricent&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+Building real-world projects, strengthening fundamentals, and documenting the journey daily.
 </p>
 
 ---
 
-## 👨🏽‍💻 About Me  
-- 🧑‍💻 Software developer focused on building strong fundamentals and real projects  
-- 📚 Currently completing the **Scrimba Full-Stack Developer Career Path**  
-- 🛠️ Building and maintaining client and personal projects through **Doricent Web Solutions**  
-- 🔁 Practicing JavaScript daily through problem-solving and hands-on coding  
-- 📈 Committed to consistency, clarity, and writing clean, maintainable code  
-- 🌐 Portfolio: **https://dondoricent.netlify.app**
+## 👨‍💻 About Me
+
+- 🚧 Currently completing the Scrimba Full-Stack Developer Career Path
+- ⚡ Building projects with JavaScript, React, and Node.js
+- 🌐 Developing websites through Doricent Web Solutions
+- 🧠 Focused on consistent daily improvement and clean code practices
+- 🎯 Goal: Become a professional software developer and transition toward AI engineering
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,github,linux,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,github,vscode,linux,wordpress" />
 </p>
 
 ---
 
-## 🔁 Daily Practice
+## 📌 Current Focus
 
-- 📌 JavaScript problem-solving (Codewars)
-- 📌 Scrimba projects and solo challenges
-- 📌 Daily Git commits focused on steady improvement
-
-I value **daily reps** over sporadic intensity.
+- Finishing the Scrimba Full-Stack Path
+- Building stronger portfolio projects
+- Improving React and API integration skills
+- Writing cleaner and more maintainable JavaScript
+- Contributing consistently on GitHub
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&hide_border=true&cache_seconds=86400"
-    alt="GitHub stats"
-  />
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com/?user=Don-Doricent&hide_border=true&cache_seconds=86400"
-    alt="GitHub streak"
-  />
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Don-Doricent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+/>
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+/>
+
 </p>
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&hide_border=true&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
 
+<img 
+src="https://streak-stats.demolab.com?user=Don-Doricent&theme=tokyonight&hide_border=true&border_radius=10" 
+/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Doricent&layout=compact&hide_border=true"
-    alt="Top languages"
-    width="48%"
-  />
 </p>
 
 ---
 
-## 📦 Current Focus (2025 → 2026)
-- Completing the Scrimba Full-Stack Developer Career Path  
-- Strengthening JavaScript fundamentals through daily practice  
-- Building and refining real-world projects  
-- Preparing for a junior software developer role  
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| Portfolio Website | Personal developer portfolio | HTML, CSS, JS |
+| Scrimba Projects | Collection of course and solo projects | JavaScript |
+| Doricent Web Solutions | Freelance and client development work | WordPress |
+| Playwright Demos | QA automation practice and testing demos | Playwright |
 
 ---
 
-## 💬 Connect With Me
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/donald-doricent/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/Don-Doricent" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Don-Doricent">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://dondoricent.netlify.app">
+🌍 Portfolio Website
+</a>
 </p>
 
 ---
 
-## 🧠 A little code version of me  
-```js
-const don = {
-  role: "Software Developer",
-  stack: ["JavaScript", "HTML", "CSS", "React"],
-  habits: ["Daily coding", "Problem solving", "Building projects"],
-  mindset: "Consistency > intensity"
-};
+## 🧠 Philosophy
+
+> Consistency > intensity.
+
+Daily reps compound.
