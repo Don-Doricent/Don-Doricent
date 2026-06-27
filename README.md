@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Don Doricent👋</h1>
 
 <h3 align="center">
-Full-Stack Developer • JavaScript • React • Node.js
+Full-Stack Developer • JavaScript • React • Node.js 
 </h3>
 
 <p align="center">
